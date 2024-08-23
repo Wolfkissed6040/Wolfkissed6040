@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Machine learning<br>👯 I’m looking to collaborate on WebDev and IoT<br>🤝 I’m looking for help with KerasNLP and KerasCV<br>🌱 I’m currently learning TensorFlow<br>⚡ Fun fact-I like watching anime
+🔭 I’m currently working at **Kyrotics technologies pvt ltd** as a **Machine learning Engineer**<br>👯 I’m looking to collaborate on WebDev and IoT<br>🤝 I’m looking for help with KerasNLP and KerasCV<br>🌱 I’m currently learning TensorFlow<br>⚡ Fun fact-I like watching anime
 
 
 ## 🌐 Socials:
